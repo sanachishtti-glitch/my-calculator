@@ -9,7 +9,7 @@ This project performs basic arithmetic operations with a clean and responsive UI
 
 ## Screenshot
 
-![calculator](public/image.png)
+![calculator](public/calculatorpic.png)
 
 ---
 
