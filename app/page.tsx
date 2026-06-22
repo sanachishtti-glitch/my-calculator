@@ -63,12 +63,11 @@ export default function Calculator() {
   ];
 
   return (
-    // <div className="min-h-screen bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 flex items-center justify-center p-4">
+
   <div className="min-h-screen bg-gradient-to-r from-indigo-400 via-blue-400 to-indigo-400 flex items-center justify-center p-4"> 
                          
-    {/* // <div className="min-h-screen bg-gradient-to-r from-cyan-300 via-purple-600 to-cyan-400 flex items-center justify-center p-4"> */}
       <div className="w-full max-w-sm bg-gradient-to-r from-gray-100 via-white to-gray-200 rounded-3xl shadow-2xl p-5">
-        {/* Display */}
+        
         <div className="bg-slate-800 rounded-2xl p-4 mb-5">
           <input
             type="text"
@@ -78,7 +77,6 @@ export default function Calculator() {
           />
         </div>
 
-        {/* Buttons */}
         <div className="grid grid-cols-4 gap-3 
         
         ">
